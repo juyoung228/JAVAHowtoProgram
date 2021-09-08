@@ -1,4 +1,4 @@
-package chapter9;
+package chapter910;
 
 public class CommissionEmployeeTest {
     public static void main(String[] args) {

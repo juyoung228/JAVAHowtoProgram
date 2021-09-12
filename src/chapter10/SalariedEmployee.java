@@ -1,5 +1,6 @@
 package chapter10;
 
+//Fig. 10.5: SalariedEmployee.java
 public class SalariedEmployee extends Employee{
     private double weeklySalary;
 

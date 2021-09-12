@@ -1,5 +1,6 @@
 package chapter10;
 
+//Fig. 10.6: HourlyEmployee.java
 public class HourlyEmployee extends Employee {
     private double wage;
     private double hours;
